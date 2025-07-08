@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 const HomeDetails = styled.div`
     .hero {
@@ -660,6 +660,6 @@ const HomeDetails = styled.div`
             padding: 0.7rem 0;
         }
     }
-`
+`;
 
 export default HomeDetails;
